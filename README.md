@@ -32,12 +32,6 @@ Where:
 - **FP** = False Positive
 - **FN** = False Negative
 
-### Confusion Matrix
-
-The confusion matrix is used to visualize the performance of the classification model:
-
-![Confusion matrix](https://github.com/chuksoo/IBM-Data-Science-Capstone-SpaceX/blob/main/Plots/Confusion%20matrix.PNG)
-
 ## Deliverables
 
 - **Accurate predictive algorithms** that can forecast the mission outcomes based on various factors.
